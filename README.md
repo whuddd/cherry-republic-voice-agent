@@ -38,7 +38,7 @@ The final agent uses ElevenLabs Agents for reliability, but the prototypes show 
 
 ### Agent Configuration
 ![Agent Dashboard](images%3Aagent-dashboard.png)*ElevenLabs agent configuration showing system prompt, voice settings (Eric - Smooth, Trustworthy), and LLM (Gemini 2.5 Flash).*
-*ElevenLabs agent configuration showing system prompt, voice settings (Eric - Smooth, Trustworthy), and LLM (Gemini 2.5 Flash).*
+
 
 
 ### Knowledge Base
