@@ -37,18 +37,16 @@ The final agent uses ElevenLabs Agents for reliability, but the prototypes show 
 - ## Screenshots
 
 ### Agent Configuration
-![Agent Dashboard](images/agent-dashboard.png)
+![Agent Dashboard](images:agent-dashboard.png)*ElevenLabs agent configuration showing system prompt, voice settings (Eric - Smooth, Trustworthy), and LLM (Gemini 2.5 Flash).*
 *ElevenLabs agent configuration showing system prompt, voice settings (Eric - Smooth, Trustworthy), and LLM (Gemini 2.5 Flash).*
 
 
 ### Knowledge Base
-![Knowledge Base](images/knowledge-base.png)
-*Agent knowledge base containing Cherry Republic FAQs about products, locations, and shipping.*
+![Knowledge Base](knowledgebaseCherry%20voice.png)*Agent knowledge base containing Cherry Republic FAQs about products, locations, and shipping.*
 
 
 ### Conversation Example
-![Conversation Example](images/conversation-example.png)
-*Live conversation showing Cherry Voice handling a customer inquiry about Christmas gift recommendations, demonstrating natural product knowledge and personalized responses.*
+![Conversation Example](conversationexample%20cherry%20ai.png)*Live conversation showing Cherry Voice handling a customer inquiry about Christmas gift recommendations, demonstrating natural product knowledge and personalized responses.*
 
 
 ## Try it yourself
