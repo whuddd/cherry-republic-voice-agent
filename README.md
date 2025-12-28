@@ -21,6 +21,19 @@ AI voice agent that answers customer calls for Cherry Republic, handling product
 - Configured tools, knowledge, and voice settings in ElevenLabs.
 - Tested with sample customer scenarios and iterated to reduce dead-ends.
 
+
+## Development approach
+
+This project uses the ElevenLabs Agents platform for production. The repo also includes initial prototype files (`Cherry_voice.py`, `eleven_labs.md`, `faq.json`, etc.) that were used to explore the ElevenLabs API and test conversation flows before moving to the no-code agent platform.
+
+These prototypes demonstrate:
+- Python integration with ElevenLabs API
+- Custom conversation logic and FAQ matching
+- Voice synthesis and playback experimentation
+
+The final agent uses ElevenLabs Agents for reliability, but the prototypes show the technical foundation and API understanding behind the project.
+
+
 - ## Screenshots
 
 ### Agent Configuration
