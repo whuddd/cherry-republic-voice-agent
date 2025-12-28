@@ -37,3 +37,15 @@ AI voice agent that answers customer calls for Cherry Republic, handling product
 ![Conversation Example](images/conversation-example.png)
 *Live conversation showing Cherry Voice handling a customer inquiry about Christmas gift recommendations, demonstrating natural product knowledge and personalized responses.*
 
+
+## Try it yourself
+
+**Phone:** +1 (269) 215-4951
+
+Call this number to experience the Cherry Voice agent live. The AI will:
+- Answer your call with a friendly greeting
+- Help with product questions and recommendations
+- Provide information about store locations and shipping
+- Handle basic order inquiries in a demo flow
+
+
