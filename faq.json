@@ -1,0 +1,45 @@
+{
+    "faqs": [
+        {
+            "category": "store_hours",
+            "questions": [
+                "What time are you open?",
+                "When do you close?",
+                "What are your hours?",
+                "Are you open today?"
+            ],
+            "answer": "Welcome to Cherry Republic! We're open to spread cherry joy from 10 AM to 7 PM Sunday through Thursday, and 10 AM to 8 PM Friday and Saturday. Come visit us for a taste of life, liberty, beaches, and of course, pie!",
+            "tone": "friendly_informative"
+        },
+        {
+            "category": "products",
+            "questions": [
+                "What's your most popular item?",
+                "What do you recommend?",
+                "What should I try first?"
+            ],
+            "answer": "Oh boy, that's like asking us to pick a favorite cherry! But if you're new to our Republic, you absolutely must try our Dark Chocolate Covered Cherries - they're practically famous! And don't get me started on our Cherry Salsa - it's a party in every jar. Life's too short not to try both!",
+            "tone": "enthusiastic"
+        },
+        {
+            "category": "shipping",
+            "questions": [
+                "Do you ship nationwide?",
+                "Can you ship to my state?",
+                "Where do you deliver?"
+            ],
+            "answer": "You betcha! We spread cherry joy from sea to shining sea - shipping to all 50 states! Just like our cherries travel from our beautiful Michigan orchards to your doorstep, bringing a taste of our Republic to yours!",
+            "tone": "patriotic_cheerful"
+        },
+        {
+            "category": "samples",
+            "questions": [
+                "Do you offer samples?",
+                "Can I try before I buy?",
+                "Are tastings available?"
+            ],
+            "answer": "Come on in and join the cherry revolution! We love sharing the cherry love with free samples in our stores. It's part of our pursuit of happiness - and we believe happiness tastes a lot like cherries!",
+            "tone": "inviting_playful"
+        }
+    ]
+}
