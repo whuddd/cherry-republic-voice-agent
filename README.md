@@ -27,3 +27,7 @@ AI voice agent that answers customer calls for Cherry Republic, handling product
 ![Agent Dashboard](images/agent-dashboard.png)
 *ElevenLabs agent configuration showing system prompt, voice settings (Eric - Smooth, Trustworthy), and LLM (Gemini 2.5 Flash).*
 
+
+### Knowledge Base
+![Knowledge Base](images/knowledge-base.png)
+*Agent knowledge base containing Cherry Republic FAQs about products, locations, and shipping.*
