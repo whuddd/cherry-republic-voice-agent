@@ -31,3 +31,9 @@ AI voice agent that answers customer calls for Cherry Republic, handling product
 ### Knowledge Base
 ![Knowledge Base](images/knowledge-base.png)
 *Agent knowledge base containing Cherry Republic FAQs about products, locations, and shipping.*
+
+
+### Conversation Example
+![Conversation Example](images/conversation-example.png)
+*Live conversation showing Cherry Voice handling a customer inquiry about Christmas gift recommendations, demonstrating natural product knowledge and personalized responses.*
+
