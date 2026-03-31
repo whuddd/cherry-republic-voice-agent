@@ -51,9 +51,9 @@ The final agent uses ElevenLabs Agents for reliability, but the prototypes show 
 
 ## Try it yourself
 
-**Phone:** +1 (269) 215-4951
+**Website:** (https://cherryvoice-website.vercel.app/) 
 
-Call this number to experience the Cherry Voice agent live. The AI will:
+Use this website to experience the Cherry Voice agent live. The AI will:
 - Answer your call with a friendly greeting
 - Help with product questions and recommendations
 - Provide information about store locations and shipping
